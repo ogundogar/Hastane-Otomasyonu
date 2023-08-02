@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D319387F-7FD9-482C-A716-2824CEE31122}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>HastaneOtomasyonu</RootNamespace>
+    <AssemblyName>HastaneOtomasyonu</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>..\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph">
+      <HintPath>..\..\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessLayer\KisilerDAL\DoktorDAL.cs" />
+    <Compile Include="BusinessLayer\KisilerDAL\HastaDAL.cs" />
+    <Compile Include="BusinessLayer\KisilerDAL\PersonelDAL.cs" />
+    <Compile Include="BusinessLayer\MuayaneDAL.cs" />
+    <Compile Include="BusinessLayer\RandevuDAL.cs" />
+    <Compile Include="DataLayer\HastaBilgi.cs" />
+    <Compile Include="DataLayer\Kisiler.cs" />
+    <Compile Include="DataLayer\Randevu.cs" />
+    <Compile Include="HastaneDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HastaneDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Doktor\DoktorGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Doktor\DoktorGiris.Designer.cs">
+      <DependentUpon>DoktorGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Doktor\DoktorKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Doktor\DoktorKayit.Designer.cs">
+      <DependentUpon>DoktorKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Doktor\DoktorListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Doktor\DoktorListele.Designer.cs">
+      <DependentUpon>DoktorListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\Hasta\HastaKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Hasta\HastaKayit.Designer.cs">
+      <DependentUpon>HastaKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Hasta\HastaListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Hasta\HastaListele.Designer.cs">
+      <DependentUpon>HastaListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Hasta\Muayene.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Hasta\Muayene.Designer.cs">
+      <DependentUpon>Muayene.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Hasta\RandevuEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Hasta\RandevuEkrani.Designer.cs">
+      <DependentUpon>RandevuEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Hasta\RandevuListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Hasta\RandevuListe.Designer.cs">
+      <DependentUpon>RandevuListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Personel\PersonelEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Personel\PersonelEkrani.Designer.cs">
+      <DependentUpon>PersonelEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Personel\PersonelGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Personel\PersonelGiris.Designer.cs">
+      <DependentUpon>PersonelGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Personel\PersonelKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Personel\PersonelKayit.Designer.cs">
+      <DependentUpon>PersonelKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Personel\PersonelListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Personel\PersonelListele.Designer.cs">
+      <DependentUpon>PersonelListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Zedgraph.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Zedgraph.Designer.cs">
+      <DependentUpon>Zedgraph.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UI\Doktor\DoktorGiris.resx">
+      <DependentUpon>DoktorGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Doktor\DoktorKayit.resx">
+      <DependentUpon>DoktorKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Doktor\DoktorListele.resx">
+      <DependentUpon>DoktorListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Hasta\HastaKayit.resx">
+      <DependentUpon>HastaKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Hasta\HastaListele.resx">
+      <DependentUpon>HastaListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Hasta\Muayene.resx">
+      <DependentUpon>Muayene.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Hasta\RandevuEkrani.resx">
+      <DependentUpon>RandevuEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Hasta\RandevuListe.resx">
+      <DependentUpon>RandevuListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Personel\PersonelEkrani.resx">
+      <DependentUpon>PersonelEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Personel\PersonelGiris.resx">
+      <DependentUpon>PersonelGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Personel\PersonelKayit.resx">
+      <DependentUpon>PersonelKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Personel\PersonelListele.resx">
+      <DependentUpon>PersonelListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Zedgraph.resx">
+      <DependentUpon>Zedgraph.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="HastaneDataSet.xsc">
+      <DependentUpon>HastaneDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HastaneDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HastaneDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HastaneDataSet.xss">
+      <DependentUpon>HastaneDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Hastane.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HastaneOtomasyonu", "HastaneOtomasyonu\HastaneOtomasyonu.csproj", "{D319387F-7FD9-482C-A716-2824CEE31122}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Hastane", "Hastane\Hastane.vdproj", "{98668E3C-0C33-4BE7-A831-68F5BACE2C2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D319387F-7FD9-482C-A716-2824CEE31122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D319387F-7FD9-482C-A716-2824CEE31122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D319387F-7FD9-482C-A716-2824CEE31122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D319387F-7FD9-482C-A716-2824CEE31122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98668E3C-0C33-4BE7-A831-68F5BACE2C2B}.Debug|Any CPU.ActiveCfg = Debug
+		{98668E3C-0C33-4BE7-A831-68F5BACE2C2B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2649BFF8-672E-45ED-902A-E232CD318D52}
+	EndGlobalSection
+EndGlobal

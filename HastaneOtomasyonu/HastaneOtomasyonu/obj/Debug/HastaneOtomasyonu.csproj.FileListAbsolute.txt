@@ -1,0 +1,120 @@
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe.config
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.pdb
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Properties.Resources.resources
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.DoktorKayit.resources
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Form1.resources
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Muayene.resources
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.PersonelEkrani.resources
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.pdb
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.HastaKayit.resources
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.PersonelKayit.resources
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Doktor.DoktorListele.resources
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Hasta.HastaListele.resources
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Hasta.RandevuEkrani.resources
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Personel.PersonelListele.resources
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Doktor.DoktorGiris.resources
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Personel.PersonelGiris.resources
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Hasta.RandevuListe.resources
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CopyComplete
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ZedGraph.dll
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ZedGraph.xml
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Zedgraph.resources
+C:\Users\User\Desktop\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Hastane.mdb
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Hastane.mdb
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe.config
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.pdb
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ZedGraph.xml
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Properties.Resources.resources
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Doktor.DoktorGiris.resources
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.DoktorKayit.resources
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Doktor.DoktorListele.resources
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Form1.resources
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.HastaKayit.resources
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Hasta.HastaListele.resources
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Muayene.resources
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Hasta.RandevuEkrani.resources
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Hasta.RandevuListe.resources
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.PersonelEkrani.resources
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Personel.PersonelGiris.resources
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.PersonelKayit.resources
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Personel.PersonelListele.resources
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Zedgraph.resources
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CopyComplete
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe
+C:\Users\User\Desktop\OKUL\4.sınıf 1.dönem\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.pdb
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Hastane.mdb
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe.config
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.pdb
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ZedGraph.xml
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Properties.Resources.resources
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Doktor.DoktorGiris.resources
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.DoktorKayit.resources
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Doktor.DoktorListele.resources
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Form1.resources
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.HastaKayit.resources
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Hasta.HastaListele.resources
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Muayene.resources
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Hasta.RandevuEkrani.resources
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Hasta.RandevuListe.resources
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.PersonelEkrani.resources
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Personel.PersonelGiris.resources
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.PersonelKayit.resources
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Personel.PersonelListele.resources
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.UI.Zedgraph.resources
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CopyComplete
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe
+C:\Users\User\Desktop\OKUL\Okul Projeleri\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.pdb
